@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Threading;
 
-namespace GameMonitorApp;
+namespace PerformanceManagerApp;
 
 /// <summary>
 /// Interaction logic for MainWindow.xaml
